@@ -9,7 +9,7 @@
   "previewIconUrl": "https://asset-resources.gdevelop.io/public-resources/Icons/bb6df8b068e73452a7dc9ccf10ceb1aa641511872059fb259561051db8ceccf0_mirror.svg",
   "shortDescription": "With this extension you can create and manipulate 3d mirrors.",
   "version": "1.3.0",
-  "description": "This extension allows you to create 3D planes that work as a mirror. They can be moved, unfolded, and attached to 3D objects.",
+  "description": "This extension allows you to create 3D planes that work as a mirror. They can be moved, rotated, and attached to 3D objects.",
   "tags": [
     "3d",
     "mirror",
