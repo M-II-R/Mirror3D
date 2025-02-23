@@ -3,7 +3,7 @@
   "category": "Advanced",
   "extensionNamespace": "",
   "fullName": "Mirror 3D",
-  "helpPath": "",
+  "helpPath": "https://github.com/M-II-R/Mirror3D",
   "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLW1pcnJvciIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMiAxQzE2LjY5IDEgMjAuNSA1LjkzIDIwLjUgMTJDMjAuNSAxOC4wOCAxNi42OSAyMyAxMiAyM0M3LjMxIDIzIDMuNSAxOC4wOCAzLjUgMTJDMy41IDUuOTMgNy4zMSAxIDEyIDFNMTIgM0M4LjQxIDMgNS41IDcuMDMgNS41IDEyQzUuNSAxNi45NyA4LjQxIDIxIDEyIDIxQzE1LjU5IDIxIDE4LjUgMTYuOTcgMTguNSAxMkMxOC41IDcuMDMgMTUuNTkgMyAxMiAzTTguMjkgMTAuMjhMMTEuNTMgNy4wM0wxMi41OSA4LjA5TDkuMzUgMTEuMzRMOC4yOSAxMC4yOE04LjcgMTQuNjFMMTQuMzYgOC45NUwxNS40MiAxMEw5Ljc2IDE1LjY3TDguNyAxNC42MVoiIC8+PC9zdmc+",
   "name": "Mirrors3D",
   "previewIconUrl": "https://asset-resources.gdevelop.io/public-resources/Icons/bb6df8b068e73452a7dc9ccf10ceb1aa641511872059fb259561051db8ceccf0_mirror.svg",
