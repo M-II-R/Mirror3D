@@ -340,21 +340,6 @@
           "parameterObjects": "",
           "useStrict": true,
           "eventsSheetExpanded": true
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "RemoveVariableAt"
-              },
-              "parameters": [
-                "Mirror",
-                "Mirr"
-              ]
-            }
-          ]
         }
       ],
       "parameters": [
