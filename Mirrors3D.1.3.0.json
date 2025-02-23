@@ -642,7 +642,7 @@
       "description": "Get X",
       "fullName": "Get X",
       "functionType": "Expression",
-      "name": "GetX",
+      "name": "X",
       "sentence": "",
       "events": [
         {
@@ -673,7 +673,7 @@
       "description": "Get Y",
       "fullName": "Get Y",
       "functionType": "Expression",
-      "name": "GetY",
+      "name": "Y",
       "sentence": "",
       "events": [
         {
@@ -704,7 +704,7 @@
       "description": "Get Z",
       "fullName": "Get Z",
       "functionType": "Expression",
-      "name": "GetZ",
+      "name": "Z",
       "sentence": "",
       "events": [
         {
@@ -735,7 +735,7 @@
       "description": "Get X rotation",
       "fullName": "Get X rotation ",
       "functionType": "Expression",
-      "name": "GetRotationX",
+      "name": "RotationX",
       "sentence": "",
       "events": [
         {
@@ -766,7 +766,7 @@
       "description": "Get Y rotation",
       "fullName": "Get Y rotation ",
       "functionType": "Expression",
-      "name": "GetRotationY",
+      "name": "RotationY",
       "sentence": "",
       "events": [
         {
@@ -797,7 +797,7 @@
       "description": "Get Z rotation",
       "fullName": "Get Z rotation ",
       "functionType": "Expression",
-      "name": "GetRotationZ",
+      "name": "RotationZ",
       "sentence": "",
       "events": [
         {
