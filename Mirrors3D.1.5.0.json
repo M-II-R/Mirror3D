@@ -266,7 +266,7 @@
             "// Сохраняем зеркало",
             "",
             "const mirrorArray = runtimeScene.getVariablesForExtension(\"Mirrors3D\").get(\"Mirrors\");",
-            "mirrorArray.pushVariableCopy(mirror);",
+            "mirrorArray._pushVariable(mirror);",
             "",
             "//gdjs._mirr.push(mirror);",
             ""
@@ -539,7 +539,7 @@
             "",
             "// Сохраняем зеркало",
             "const mirrorArray = runtimeScene.getVariablesForExtension(\"Mirrors3D\").get(\"Mirrors\");",
-            "mirrorArray.pushVariableCopy(mirror);"
+            "mirrorArray._pushVariable(mirror);"
           ],
           "parameterObjects": "",
           "useStrict": true,
@@ -600,8 +600,9 @@
         {
           "type": "BuiltinCommonInstructions::JsCode",
           "inlineCode": [
-            "const number = eventsFunctionContext.getArgument(\"Mirr\");",
+            "const numb = eventsFunctionContext.getArgument(\"Mirr\");",
             "const scene3D = runtimeScene.getLayer('Base layer').getRenderer().getThreeScene();",
+            "let mirr = runtimeScene.getVariablesForExtension(\"Mirrors3D\").get(\"Mirrors\");",
             "let mirror = runtimeScene.getVariablesForExtension(\"Mirrors3D\").get(\"Mirrors\").getChildAt(numb);",
             "if (mirror) {",
             "        // Освобождаем ресурсы",
@@ -613,7 +614,7 @@
             "",
             "        // Удаляем зеркало из сцены",
             "        scene3D.remove(mirror);",
-            "        mirror = null; // Очищаем ссылку",
+            "        mirr.removeAtIndex(numb);",
             "    }"
           ],
           "parameterObjects": "",
