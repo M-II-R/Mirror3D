@@ -6,7 +6,6 @@ GDevelop extensions for creating and manipulating mirrors.
 
 Расширение для GDevelop, позволяющее создавать зеркала и манипулировать ими.
 Важные примечания:
-
 (ENG) Attention!
 1. Углы должны быть в радианах. Используйте выражение ToRad, чтобы преобразовать градусы в радианы.
 
